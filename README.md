@@ -23,9 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+Creating a backend api using [Nest](https://github.com/nestjs/nest) framework for a personal project called Capacity to calculate the number of humans inside a location.
 ## Installation
 
 ```bash
